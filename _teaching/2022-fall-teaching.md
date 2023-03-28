@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Human-Computer Interaction"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-fall-teaching
+venue: "University of Nebraska-Lincoln, School of Computing"
+date: 2022-08-01
+location: "Lincoln, Nebraska"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
