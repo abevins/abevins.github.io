@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alisha Bevins"
 title_separator          : "-"
 name                     : &name "Alisha Bevins"
-description              : &description "Hello! I'm a PhD student researching Human-Robot Interaction in the NIMBUS Lab on the University of Nebraska-Lincoln."
+description              : &description "Hello! I'm a PhD student researching Human-Robot Interaction in the NIMBUS Lab at the University of Nebraska-Lincoln."
 url                      : https://abevins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abevins/abevins.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alisha Bevins"
   avatar           : "headshot.jpg"
-  bio              : "Hello! I'm a PhD student researching Human-Robot Interaction in the NIMBUS Lab on the University of Nebraska-Lincoln."
+  bio              : "Hello! I'm a PhD student researching Human-Robot Interaction in the NIMBUS Lab at the University of Nebraska-Lincoln."
   location         : "Lincoln, NE"
   employer         :
   pubmed           : 
