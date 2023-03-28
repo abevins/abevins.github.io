@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "STEM CONNECT Mentor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Tutoring"
+permalink: /teaching/2021-stem-connect
+venue: "University of Nebraska-Lincoln"
+date: 2021-08-01
+location: "Lincoln, Nebraska"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
