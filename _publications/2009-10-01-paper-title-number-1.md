@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Investigation of human-robot comfort with a small unmanned aerial vehicle compared to a ground robot"
+excerpt: 'This paper presents an investigation of human comfort with a small Unmanned Aerial Vehicle (sUAV) through a study offering a comparison of comfort with a sUAV versus a ground vehicle'
+venue: '2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+citation: 'Acharya, Urja, Alisha Bevins, and Brittany A. Duncan. "Investigation of human-robot comfort with a small unmanned aerial vehicle compared to a ground robot." 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2017.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://ieeexplore.ieee.org/iel7/8119304/8202121/08206104.pdf)
