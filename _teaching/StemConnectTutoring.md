@@ -1,10 +1,9 @@
 ---
 title: "STEM CONNECT Mentor"
 collection: teaching
-type: "Tutoring"
+type: "Undergraduate Computer Science Tutoring - Worked with students in core classes, such as: CS1, CS2, Data Structures & Algorithms, Discrete Structures"
 venue: "University of Nebraska-Lincoln"
-timeframe: "Fall 2021 - Spring 2022"
+date: 2021-08-20
 location: "Lincoln, Nebraska"
-details: "Worked with students in core classes, such as: CS1, CS2, Data Structures & Algorithms, Discrete Structures"
 ---
 

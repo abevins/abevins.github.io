@@ -1,8 +1,8 @@
 ---
 title: "Human-Computer Interaction"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course taught in the fall: 66 students in 2022, 99 students in 2023, 75 students in 2024"
 venue: "University of Nebraska-Lincoln, School of Computing"
-details: "Fall 2022 with 66 students, Fall 2023 with 99 students, Fall 2024 with 75 students"
+date: 2024-08-20
 location: "Lincoln, Nebraska"
 ---
